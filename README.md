@@ -1,6 +1,6 @@
 # Deploying FortiCNAPP Linux Agent via Ansible on Azure
 
-**Document Owner:** [Your Name / Team]
+**Document Owner:*LinuxExploit*
 **Last Updated:** March 26, 2026
 **Scope:** End-to-end guide for deploying the Lacework FortiCNAPP Linux agent to Ubuntu VMs in Azure using Ansible with static inventory
 **Product:** Lacework FortiCNAPP (Fortinet)
